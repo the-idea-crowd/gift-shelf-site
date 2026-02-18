@@ -1,0 +1,18 @@
+#header-logo {
+  max-width: 170px;
+}
+
+.mint-green {
+  background: #a7c2a9;
+}
+
+.btn-header {
+  background: #393e41;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.btn-header img {
+  margin-top: -3px;
+}
